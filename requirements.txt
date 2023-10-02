@@ -8,3 +8,4 @@ pandas
 numpy
 keras
 scikit-learn
+tensorflow 
